@@ -62,7 +62,7 @@ Project ini dibuat sebagai aplikasi musik ringan dengan tampilan yang simpel dan
 
 Atau download APK secara langsung:
 
-**[⬇️ Download ZXNMCX.apk](https://github.com/AZNJAWA/ZXNMUSICX/raw/refs/heads/main/ZXNMCX.apk)**
+**[⬇️ Download ZXNMCX.apk](https://github.com/AZNJAWA/ZXNMUSICX/raw/refs/heads/main/ZXNMCSX.apk)**
 
 ---
 
