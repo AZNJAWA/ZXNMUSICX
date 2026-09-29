@@ -65,7 +65,7 @@ Aplikasi ini dibuat dengan fokus pada interface yang sederhana, ringan, dan muda
 
 Atau download melalui:
 
-**[📱 Download ZXNMusic APK](https://USERNAME.github.io/REPOSITORY/)**
+**[📱 Download ZXNMusic APK]([https://USERNAME.github.io/REPOSITORY/](https://github.com/AZNJAWA/ZXNMUSICX/ZXNMSCX.apk)**
 
 ---
 
@@ -117,8 +117,6 @@ Made with ❤️ and questionable amounts of code by **AZNMANGANUDANG**.
 ## ⭐ Support
 
 Kalau project ini menurut lu menarik, kasih **Star ⭐** di repository.
-
-Itu gratis. Server tidak akan menangis, tetapi GitHub mungkin memberi sedikit dopamine kepada developer. 😭
 
 ---
 
