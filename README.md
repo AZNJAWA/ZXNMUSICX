@@ -1,20 +1,16 @@
 # 🎵 ZXNMusic
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/assets/banner.png" width="800">
-</p>
-
-<h3 align="center">
-  Simple Android Music Player
-</h3>
-
-<p align="center">
-  A lightweight music application built with Android Studio.
+  <strong>Simple Android Music Player</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AZNJAWA/ZXNMUSICX/ZXNMSCX.apk">
-    <img src="https://img.shields.io/badge/Download-APK-38BDF8?style=for-the-badge&logo=android&logoColor=white">
+  A simple and lightweight music application for Android.
+</p>
+
+<p align="center">
+  <a href="https://aznjawa.github.io/ZXNMUSICX/">
+    <img src="https://img.shields.io/badge/📱%20Download%20APK-38BDF8?style=for-the-badge&logo=android&logoColor=white">
   </a>
 </p>
 
@@ -24,7 +20,7 @@
 
 **ZXNMusic** adalah aplikasi musik Android sederhana yang dibuat menggunakan **Android Studio**.
 
-Aplikasi ini dibuat dengan fokus pada interface yang sederhana, ringan, dan mudah digunakan untuk menikmati musik.
+Project ini dibuat sebagai aplikasi musik ringan dengan tampilan yang simpel dan mudah digunakan.
 
 > 🎧 Simple music. Simple interface.
 
@@ -33,23 +29,22 @@ Aplikasi ini dibuat dengan fokus pada interface yang sederhana, ringan, dan muda
 ## ✨ Features
 
 * 🎵 Music player
-* ▶️ Play & pause
+* ▶️ Play & Pause
 * ⏮️ Previous track
 * ⏭️ Next track
-* 📂 Music library
-* 🎶 Playlist
-* 🌙 Simple interface
-* ⚡ Lightweight application
+* 🎶 Music & playlist
+* 📱 Simple interface
+* ⚡ Lightweight
 
 ---
 
-## 📸 Screenshot
+## 📸 Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/assets/screenshot1.png" width="250">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/assets/screenshot2.png" width="250">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/assets/screenshot3.png" width="250">
+  <img src="https://raw.githubusercontent.com/AZNJAWA/ZXNMUSICX/main/screenshot.png" width="300">
 </p>
+
+> Screenshot akan ditambahkan pada update berikutnya.
 
 ---
 
@@ -58,14 +53,39 @@ Aplikasi ini dibuat dengan fokus pada interface yang sederhana, ringan, dan muda
 ### Android APK
 
 <p align="center">
-  <a href="https://github.com/AZNJAWA/ZXNMUSICX/ZXNMSCX.apk">
-    <img src="https://img.shields.io/badge/📱%20Download%20ZXNMusic-APK-2563EB?style=for-the-badge">
+  <a href="https://aznjawa.github.io/ZXNMUSICX/">
+    <img src="https://img.shields.io/badge/📱%20Download%20ZXNMusic-APK-2563EB?style=for-the-badge&logo=android&logoColor=white">
   </a>
 </p>
 
-Atau download melalui:
+**[📱 Download ZXNMusic](https://aznjawa.github.io/ZXNMUSICX/)**
 
-**[📱 Download ZXNMusic APK]([https://github.com/AZNJAWA/ZXNMUSICX/ZXNMSCX.apk])**
+Atau download APK secara langsung:
+
+**[⬇️ Download ZXNMCX.apk](https://github.com/AZNJAWA/ZXNMUSICX/raw/refs/heads/main/ZXNMCX.apk)**
+
+---
+
+## 📱 Requirements
+
+| Requirement | Version             |
+| ----------- | ------------------- |
+| Android     | 7.0+                |
+| Minimum SDK | API 24              |
+| Target SDK  | Android 15 / API 35 |
+| APK Version | 1.0.0               |
+
+---
+
+## 🚀 Installation
+
+1. Download **ZXNMCX.apk**.
+2. Buka file APK pada perangkat Android.
+3. Ikuti proses instalasi.
+4. Jalankan **ZXNMusic**.
+5. Nikmati musik. 🎧
+
+> Pastikan APK berasal dari repository resmi project ini sebelum melakukan instalasi.
 
 ---
 
@@ -78,25 +98,16 @@ Atau download melalui:
 
 ---
 
-## 📱 Requirements
+## 📂 Repository Structure
 
-| Requirement  | Version                      |
-| ------------ | ---------------------------- |
-| Android      | 7.0+                         |
-| Architecture | ARM64 / compatible device    |
-| Storage      | Depends on app & music files |
+```text
+ZXNMUSICX/
+├── README.md
+├── index.html
+└── ZXNMCX.apk
+```
 
----
-
-## 🚀 Installation
-
-1. Download `ZXNMusic.apk`.
-2. Buka file APK di perangkat Android.
-3. Ikuti proses instalasi.
-4. Buka aplikasi.
-5. Nikmati musik. 🎧
-
-> Jika Android meminta izin untuk memasang aplikasi dari sumber tertentu, pastikan APK berasal dari repository resmi project.
+`index.html` digunakan sebagai halaman download/install aplikasi melalui GitHub Pages.
 
 ---
 
@@ -104,23 +115,23 @@ Atau download melalui:
 
 **Development**
 
-ZXNMusic masih dalam tahap pengembangan. Fitur dan tampilan dapat berubah pada versi berikutnya.
+ZXNMusic masih dalam tahap pengembangan. Fitur, tampilan, dan kompatibilitas dapat berubah pada versi berikutnya.
 
 ---
 
 ## 👨‍💻 Developer
 
-Made with ❤️ and questionable amounts of code by **AZNMANGANUDANG**.
+**AZNMANGANUDANG**
+
+Made with ❤️ and a mildly unreasonable amount of code.
 
 ---
 
 ## ⭐ Support
 
-Kalau project ini menurut lu menarik, kasih **Star ⭐** di repository.
-
----
+Kalau project ini menarik atau membantu, jangan lupa kasih **Star ⭐** pada repository.
 
 <p align="center">
-  <b>🎵 ZXNMusic</b><br>
+  <strong>🎵 ZXNMusic</strong><br>
   Simple music player for Android.
 </p>
