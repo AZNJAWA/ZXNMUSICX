@@ -110,7 +110,7 @@ ZXNMusic masih dalam tahap pengembangan. Fitur dan tampilan dapat berubah pada v
 
 ## 👨‍💻 Developer
 
-Made with ❤️ and questionable amounts of code by **Z**.
+Made with ❤️ and questionable amounts of code by **AZNMANGANUDANG**.
 
 ---
 
