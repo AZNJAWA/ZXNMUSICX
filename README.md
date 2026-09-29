@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://USERNAME.github.io/REPOSITORY/">
+  <a href="https://github.com/AZNJAWA/ZXNMUSICX/ZXNMSCX.apk">
     <img src="https://img.shields.io/badge/Download-APK-38BDF8?style=for-the-badge&logo=android&logoColor=white">
   </a>
 </p>
@@ -58,14 +58,14 @@ Aplikasi ini dibuat dengan fokus pada interface yang sederhana, ringan, dan muda
 ### Android APK
 
 <p align="center">
-  <a href="https://USERNAME.github.io/REPOSITORY/">
+  <a href="https://github.com/AZNJAWA/ZXNMUSICX/ZXNMSCX.apk">
     <img src="https://img.shields.io/badge/📱%20Download%20ZXNMusic-APK-2563EB?style=for-the-badge">
   </a>
 </p>
 
 Atau download melalui:
 
-**[📱 Download ZXNMusic APK]([https://USERNAME.github.io/REPOSITORY/](https://github.com/AZNJAWA/ZXNMUSICX/ZXNMSCX.apk)**
+**[📱 Download ZXNMusic APK]([https://github.com/AZNJAWA/ZXNMUSICX/ZXNMSCX.apk])**
 
 ---
 
