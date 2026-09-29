@@ -41,7 +41,7 @@ Project ini dibuat sebagai aplikasi musik ringan dengan tampilan yang simpel dan
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AZNJAWA/ZXNMUSICX/main/screenshot.png" width="300">
+  <img src="https://raw.githubusercontent.com/AZNJAWA/ZXNMUSICX/main/image.png" width="300">
 </p>
 
 > Screenshot akan ditambahkan pada update berikutnya.
