@@ -72,9 +72,8 @@ Project masih dapat mengalami perubahan, penambahan fitur, atau perbaikan bug.
 
 ## 👨‍💻 Developer
 
-**Z**
+**AZNMANGANUDANG**
 
-Project dibuat untuk pembelajaran dan pengembangan aplikasi Android.
 
 ---
 
